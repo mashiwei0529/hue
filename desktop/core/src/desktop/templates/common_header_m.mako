@@ -50,8 +50,7 @@ if USE_NEW_EDITOR.get():
   <meta name="author" content="">
 
   <link href="${ static('desktop/css/roboto.css') }" rel="stylesheet">
-  <link href="${ static('desktop/ext/css/bootplus.css') }" rel="stylesheet">
-  <link href="${ static('desktop/ext/css/bootplus-responsive.css') }" rel="stylesheet">
+  <link href="${ static('desktop/ext/css/bootstrap3.css') }" rel="stylesheet">
   <link href="${ static('desktop/ext/css/font-awesome.min.css') }" rel="stylesheet">
   <link href="${ static('desktop/css/hue-mobile.css') }" rel="stylesheet">
 
